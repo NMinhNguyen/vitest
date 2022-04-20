@@ -6,7 +6,7 @@
     "coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "vue": "^3.2.32"
+    "vue": "^3.2.33"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
